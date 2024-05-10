@@ -1,4 +1,4 @@
-# Tarang: Music Streaming Meets Social Interaction
+# Tarang: Music Streaming Platform for Upcoming Artists to Shine 
 
 **Tarang is an innovative web-based music streaming application that combines immersive music listening with vibrant social networking.**
 
