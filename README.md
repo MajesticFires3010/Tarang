@@ -19,7 +19,7 @@ Tarang offers distinct features tailored for two user types: **Listeners** and *
 - **Social Interaction:** Connect with other music enthusiasts by following their profiles, engaging in chats, and sharing music recommendations.
 
 <br>
-![Tarang Main UI](https://github.com/MajesticFires3010/Tarang/assets/96762636/20d518b9-4e55-4075-9edd-acebb192c511)
+![Tarang Main UI](https://github.com/MajesticFires3010/Tarang/assets/96762636/f7614904-e48c-4762-bfef-a380a5bf2def)
 <br>
 
 ### Creator Features
@@ -28,7 +28,7 @@ Tarang offers distinct features tailored for two user types: **Listeners** and *
 - **Profile Customization:** Personalize profiles to reflect unique artistic identities.
 
 <br>
-![Uncover](https://github.com/MajesticFires3010/Tarang/assets/96762636/c50ede86-aea2-4a27-ac3a-529ff2d4c355)
+![Tarang Uncover UI](https://github.com/MajesticFires3010/Tarang/assets/96762636/1c6ba976-d22a-4029-ab9a-6efa28e4f3ed)
 <br>
 
 ### Uncover Section: The Heart of Tarang
