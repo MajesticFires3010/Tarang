@@ -12,6 +12,8 @@ At Tarang, our mission is to transform how users interact with music. By integra
 
 Tarang offers distinct features tailored for two user types: **Listeners** and **Creators**. Each profile type is designed to enhance the user's experience and engagement within the music community.
 
+![Tarang Main UI](https://github.com/MajesticFires3010/Tarang/assets/96762636/20d518b9-4e55-4075-9edd-acebb192c511)
+
 ### Listener Features
 
 - **Music Streaming:** Access an expansive library spanning various musical genres and artists.
@@ -28,6 +30,8 @@ Tarang offers distinct features tailored for two user types: **Listeners** and *
 - **Emerging Creators:** The core of the Uncover section is to spotlight up-and-coming indie artists. This feature promotes rising talents by focusing on geographic locality, making it easier for users to discover and support local musicians and bands.
 - **Top Creators:** While also featuring established artists, the Uncover section emphasizes exclusive content from emerging creators who are the future stars of the music industry.
 - **Direct Bookings:** Listeners can book artists for live performances directly through Tarang, facilitating an interactive bridge between artists and their audience.
+
+![Uncover](https://github.com/MajesticFires3010/Tarang/assets/96762636/c50ede86-aea2-4a27-ac3a-529ff2d4c355)
 
 ## Tech Stack
 
